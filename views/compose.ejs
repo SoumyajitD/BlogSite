@@ -1,0 +1,16 @@
+<% include partials/header.ejs %>
+
+<h1>Compose</h1>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/styles.css">
+<form class="" action="/compose" method="post">
+
+<label for="textInput">Title</label>
+<input  type="text" name="titleInput" id="ctext" value="">
+<br>
+<label for="postInput">Post</label><br>
+<textarea name="postInput" rows="8" cols="159.5" id="ctext1"></textarea><br>
+
+<button  type="submit" class="btn btn-primary" name="button">Publish</button>
+</form>
+<% include partials/footer.ejs %>
