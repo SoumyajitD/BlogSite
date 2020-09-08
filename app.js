@@ -113,6 +113,6 @@ app.post("/compose",function (req,res) {
 app.get('/github.com/SoumyajitD',(req,res)=>res.redirect('https://github.com/SoumyajitD'))
 
 
-app.listen(3000, function() {
+app.listen(process.env.PORT || 3000, function() {
   console.log("Server started on port 3000");
 });
