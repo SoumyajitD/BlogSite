@@ -65,7 +65,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Soumyajit Dawn - soumyajitdawn@gmail.com
+Soumyajit Dawn - soumyajitdawn@gmail.com
 
 Project Link: [https://github.com/SoumyajitD/BlogSite](https://github.com/SoumyajitD/BlogSite)
 
